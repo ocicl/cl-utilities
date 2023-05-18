@@ -1,0 +1,9 @@
+* cl-utilities
+
+A collection of semi-standard utilities.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/Publitechs/cl-utilities.git |
+| commit  | 6b4de39                                            |
+| systems | cl-utilities                                       |
+|---------+----------------------------------------------------|
